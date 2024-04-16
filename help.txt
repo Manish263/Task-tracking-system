@@ -1,0 +1,13 @@
+The following commands are available:
+1. task show => shows all the tasks available
+2. task use task_name => use a given task
+3. task create task_name => create a task with given name
+4. task remove task_name => delete a task with given name
+5. todo add item_names => add a todo item to the selected task
+6. todo all => show all the todo items in the chosen task
+7. todo edit item_id new_item_name => edit the todo item providing the id and new title
+8. todo remove item_id => remove a todo item
+9. todo complete item_id => mark a todo item as completed
+10. todo incomplete item_id => mark a todo item as incomplete
+11. help => to view all commands
+12. exit => exit the application
